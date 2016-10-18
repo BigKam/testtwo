@@ -1,4 +1,8 @@
 222
 add 333
 local add 555
+<<<<<<< HEAD
 local add 777
+=======
+web add 666
+>>>>>>> origin/master
